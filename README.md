@@ -1,3 +1,4 @@
 # Healthy-Recipes
-This is my first assesment project on codeacademy 
-I could do more than this by following instruction given.
+>This is my first **codeacademy assessment** project.
+---
+I could do more, but I had to stick to the *instructions*. 
